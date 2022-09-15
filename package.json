@@ -1,0 +1,19 @@
+{
+  "name": "will",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "willianifms <williancardoso00004@gmail.com>",
+  "license": "ISC",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.1",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  },
+  "repository": "https://github.com/willianifms/projetob122"
+}
